@@ -1,0 +1,1 @@
+I used Autofac to apply dependency injection and Entity Framework as the Object-Relational Mapper (ORM).
